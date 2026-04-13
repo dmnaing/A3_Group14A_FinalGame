@@ -32,7 +32,7 @@ spike mirroring the unpredictable, overwhelming nature of a
 panic attack. A tension meter tracks system stress: as tension
 rises, plants deteriorate faster, and if tension hits its
 maximum, the screen briefly freezes in a cognitive overload
-moment. The **grounding** mechanic — holding Space to breathe —
+moment. The **grounding** mechanic **holding Space to breathe**
 lets the player slow everything down, directly representing
 real coping strategies used during panic episodes.
 
@@ -112,14 +112,14 @@ At random intervals, a panic surge activates. During a surge:
 - "SURGE ACTIVE" appears on the side panel
 
 Focus on your most depleted plants and use Airflow (R) to buy
-time. After the surge ends, tension remains elevated — use
+time. After the surge ends, tension remains elevated **use**
 Breathe (Space) to bring it back down.
 
 ### Tension and Overload
 
 The tension meter fills during surges and when plants are
 neglected. High tension makes everything drain faster. If
-tension hits maximum, the system briefly freezes — representing
+tension hits maximum, the system briefly freezes representing
 the cognitive overload of a panic attack. Hold Space to Breathe
 and reduce tension before it reaches that point.
 
@@ -127,7 +127,7 @@ and reduce tension before it reaches that point.
 
 Hold **Space** to activate the Breathe mechanic. This slows
 all resource drain and reduces tension, giving you a moment to
-recover. It has a cooldown, so use it strategically — especially
+recover. It has a cooldown, so use it strategically especially
 after surges.
 
 ### Harmony Bonus
@@ -160,8 +160,8 @@ changes were made before the final submission:
 2. **Added a full interactive tutorial system** built into
    Level 1. Playtesting showed that players struggled to
    understand all mechanics at once. The tutorial now introduces
-   each mechanic — HP, water, light, selection, airflow, surges,
-   tension, and breathing — one step at a time with click-to-
+   each mechanic HP, water, light, selection, airflow, surges,
+   tension, and breathing one step at a time with click-to-
    continue prompts and visual arrows pointing to UI elements.
 
 3. **Redesigned the instruction screen** into a clean icon-
