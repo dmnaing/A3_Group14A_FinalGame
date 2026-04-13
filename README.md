@@ -2,7 +2,7 @@
 
 # Project Title
 
-Panic Disorder Mode – The Garden Circuit
+Panic Disorder Mode - The Garden Circuit
 
 # Group Number
 
@@ -54,9 +54,9 @@ Keep your **plants alive**.
 
 On the start screen, choose:
 
-- **Tutorial** — Learn every mechanic step by step (recommended
+- **Tutorial** - Learn every mechanic step by step (recommended
   for first-time players)
-- **Play Game** — Jump straight into Level 2
+- **Play Game** - Jump straight into Level 2
 
 ### Controls
 
@@ -75,22 +75,22 @@ On the start screen, choose:
 
 Each plant has three resource bars visible below it:
 
-- **HP (green)** — Overall plant health. Reaches zero = plant
+- **HP (green)** - Overall plant health. Reaches zero = plant
   dies
-- **Water (blue)** — Drains over time. Press Q to refill
-- **Light (yellow)** — Drains over time. Press E to refill
+- **Water (blue)** - Drains over time. Press Q to refill
+- **Light (yellow)** - Drains over time. Press E to refill
 
 ### Side Panel
 
 The right-side panel shows:
 
 - Current **Level** and progress dots
-- **Timer** — Time remaining in the level
-- **Score** — Points earned
-- **Harmony multiplier** — Bonus for keeping all plants healthy
-- **Tension meter** — Rises during surges; high tension =
+- **Timer** - Time remaining in the level
+- **Score** - Points earned
+- **Harmony multiplier** - Bonus for keeping all plants healthy
+- **Tension meter** - Rises during surges; high tension =
   faster drain; max tension = brief freeze
-- **Selected Bed stats** — Health, Water, Light, and Airflow
+- **Selected Bed stats** - Health, Water, Light, and Airflow
   timer for the currently selected plant
 
 ### Level Structure
