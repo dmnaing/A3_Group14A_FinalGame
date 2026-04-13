@@ -176,14 +176,14 @@ All visual assets were generated using Claude (Anthropic) [1].
 
 **Audio:**
 
-- `you_lose.wav` — "Failure Lose Game Over Out of Time Sound
+- `you_lose.wav` - "Failure Lose Game Over Out of Time Sound
   4." Storyblocks. Retrieved from https://www.storyblocks.com/
   audio/stock/failure-lose-game-over-out-of-time-sound-4-ht_zbjgiawlk8umfrnb
-- `final_level_complete.wav` — Sound effect. Storyblocks.
+- `final_level_complete.wav` - Sound effect. Storyblocks.
   Retrieved from https://www.storyblocks.com
-- `next_level.wav` — Sound effect. Storyblocks.
+- `next_level.wav` - Sound effect. Storyblocks.
   Retrieved from https://www.storyblocks.com
-- `royalty_free_farm_music.mp3` — Background music. Pixabay.
+- `royalty_free_farm_music.mp3` - Background music. Pixabay.
   Retrieved from https://pixabay.com/sound-effects/
 
 ## References
